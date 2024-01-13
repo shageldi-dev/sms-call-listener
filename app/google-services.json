@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394822903622",
+    "project_id": "tracker-419a6",
+    "storage_bucket": "tracker-419a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394822903622:android:9b97883c52e2487cb1e747",
+        "android_client_info": {
+          "package_name": "com.shageldi.smscalllocationlistener"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvSU7Zzl993CsNzlT32SxWGCOkcxJRtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
